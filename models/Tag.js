@@ -11,11 +11,11 @@ Tag.init({
   // define columns
   id: {
     type: DataTypes.INTEGER,
-    autoIncrement: true,
     allowNull: false,
     primaryKey: true,
+    autoIncrement: true,
   },
-  tagName: {
+  tag_name: {
     type: DataTypes.STRING
   }
 },
