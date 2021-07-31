@@ -42,9 +42,9 @@ Made with Sequelize, mySQL, Express, node.js, and JavaScript, E-Commerce Back En
 ![E-commerce Back End demo gif](./assets/images/e-commerce-back-end_demo.gif)
 
 
-## Credits
+## Credits/Help
 
-sole author
+
 w3schools.com
 developer.mozilla.org
 youtube.com
