@@ -37,7 +37,7 @@ to run the application
 
 ## Usage 
 
-Made with Sequelize, mySQL, Express, node.js, and JavaScript, E-Commerce Back End will aid anyone managing stock for their business.  Viewing, items by category, tag, or product, you can easily also add, update, or delete information inside your database.   
+Made with Sequelize, mySQL, Express, node.js, and JavaScript, E-Commerce Back End will aid anyone managing stock for their business.  Viewing individual items, or items by category, tag, or product, you can easily also add, update, or delete information inside your database.   
 
 ![E-commerce Back End demo gif](./assets/images/e-commerce-back-end_demo.gif)
 
